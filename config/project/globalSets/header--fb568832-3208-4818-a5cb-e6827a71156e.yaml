@@ -1,0 +1,18 @@
+fieldLayouts:
+  141d6ab2-9f37-40c2-9c41-797832bc009b:
+    tabs:
+      -
+        elements:
+          -
+            fieldUid: 157aee8d-9e09-4bc2-9f72-d2e9a72e0463
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 100
+        name: Content
+        sortOrder: 1
+handle: header
+name: Header
